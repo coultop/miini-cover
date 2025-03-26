@@ -20,7 +20,7 @@
 </p>
 <p align="center">🎮 在线演示：
   <a href="https://cover.ruom.top" target="_blank">
-  https://cover.ruom.top
+  https://cover.coul.top
   </a>
 </p>
 
