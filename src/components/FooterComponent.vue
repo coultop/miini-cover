@@ -18,7 +18,7 @@
       <span>© 2025</span>
       <a href="https://wwww.coul.top" 
          target="_blank"
-         class="font-bold text-green-600 hover:text-gray-600 transition-colors">梦爱吃鱼</a>
+         class="font-bold text-green-600 hover:text-gray-600 transition-colors">罐頭小筑</a>
       <a v-if="icpNumber" 
          href="https://beian.miit.gov.cn/" 
          target="_blank"
