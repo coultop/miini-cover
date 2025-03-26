@@ -16,7 +16,7 @@
     </div>
     <div class="mt-2 space-x-2">
       <span>© 2025</span>
-      <a href="https://wwww.coul.top" 
+      <a href="https://www.coul.top" 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">罐頭小筑</a>
       <a v-if="icpNumber" 
